@@ -38,7 +38,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <netty_version>4.1.36.Final</netty_version>
+        <netty_version>4.1.42.Final</netty_version>
         <protostuff.version>1.0.10</protostuff.version>
         <objenesis.version>2.4</objenesis.version>
     </properties>
