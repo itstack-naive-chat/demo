@@ -13,7 +13,7 @@ import javax.annotation.Resource;
  * Application启动后运行，日志打印微服务关键配置信息(服务名、微服务注册中心地址、配置中心)
  * 虫洞栈：https://bugstack.cn
  * 公众号：bugstack虫洞栈 | 欢迎关注并获取更多专题案例源码
- * Create by fuzhengwei on @2020
+ * Create by 小傅哥 on @2020
  */
 @Component
 public class ApplicationRunner implements CommandLineRunner {

@@ -8,7 +8,7 @@ import org.itstack.naive.chat.codec.ObjEncoder;
 /**
  * 微信公众号：bugstack虫洞栈 | 欢迎关注学习专题案例
  * 论坛：http://bugstack.cn
- * Create by 付政委 on @2020
+ * Create by 小傅哥 on @2020
  */
 public class MyChannelInitializer extends ChannelInitializer<SocketChannel> {
 

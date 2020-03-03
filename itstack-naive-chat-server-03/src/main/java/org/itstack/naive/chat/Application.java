@@ -8,7 +8,7 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 /**
  * 微信公众号：bugstack虫洞栈 | 欢迎关注学习专题案例
  * 论坛：http://bugstack.cn
- * Create by 付政委 on @2019
+ * Create by 小傅哥 on @2019
  */
 public class Application  extends SpringBootServletInitializer implements CommandLineRunner {
 
